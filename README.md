@@ -1,6 +1,6 @@
 # Three Demo Backend Answers
 
-> **Generated at:** 2026-05-25T23:08:14  
+> **Generated at:** 2026-05-25  23:08:14  
 > **Session ID:** `three-demo-backend-check`  
 > **API URL:** `http://127.0.0.1:8000/api/chat`
 
